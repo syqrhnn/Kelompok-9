@@ -1,6 +1,6 @@
 <!-- /.content-wrapper -->
 <footer class="main-footer">
-    <strong>Copyright &copy; <?= date("Y") ?> <a>yantiell</a>.</strong>
+    <strong>Copyright &copy; <?= date("Y") ?> <a>Kelompok 9</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
         <b>Version</b> 3.2.0
